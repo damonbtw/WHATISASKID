@@ -1,4 +1,23 @@
-Ddddddd DAMONNNNNNNNNNNNNNNNNN
+--// DXLib UI Library //--
+
+--[[
+
+ADD WINDOW DEADZONES SO U CANT CLICK THROUGH WINDOWS INFRONT
+
+some tools have a line that expands groupbox restraint according to text length, its overriden by text trimming
+
+make tooltips work for all tools
+
+code sections
+
+add multiline notifications
+
+fix colorpicker lag
+
+add toggle keybinds
+
+]]
+
 
 --// Log Function (Temporary)
 local log = "_LOG_\n"
